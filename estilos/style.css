@@ -19,7 +19,7 @@ body {
 
 main {
     position: relative;
-    height: 98vh;
+    height: 100vh;
 }
 
 #telefone {
@@ -32,7 +32,7 @@ main {
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
-iframe#tela {
+#tela {
     position: relative;
     top: 80px;
     left: 22px;
