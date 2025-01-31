@@ -41,8 +41,8 @@ main {
 }
 
 p#compatibilidade {
-    color: white;
     position: relative;
+    color: white;
     top: 268px;
     left: 30px;
     width: 250px;
